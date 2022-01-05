@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Belleza", sans-serif;
+  font-size: 20px;
+  background-color: #E4F5E6;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 70px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 75px;
+}
+
+h2 {
+  font-family: "Belleza", sans-serif;
+  margin: 0;
+  font-size: 30px;
+  line-height: 1;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Belleza", sans-serif;
+  font-size: 30px;
+}
+
+hr {
+  border-style: none;
+  border-top: 1px solid;
+  border-color: #E6C17F;
+  width: 100%;
+}
+
+.skillshr {
+  border-style: none;
+  border-top: 6px dotted;
+  border-color: #E6C17F;
+  width: 10%;
+}
+
+/* images----------------------------  */
+
+.curves {
+   position: relative;
+   margin: 55px auto;
+   width: 100%;
+   height: 325px;
+}
+.profilepic {
+  margin: 0;
+  padding-top: 75px;
+}
+
+.skills {
+  width: 25%;
+  float: left;
+}
+
+.webdesign {
+  width: 25%;
+  float: right;
+}
+/* ---------------------------- */
+
+/* skills table modifications */
+
+.skill-row {
+  width: 50%;
+  background-color: #E4F5E6;
+  margin: 50px auto 50px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-family: "Belleza", sans-serif;
+
+}
+
+.toptable {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 105px;
+
+}
+
+.bottomtable {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.table {
+  text-align: center;
+}
+
+.design-description {
+clear: right;
+
+}
+/* -------------------------- */
+
+/* -------------------------containers  */
+
+
+.middle-container {
+ margin: auto;
+ width: 50%;
+  }
+.bottom-container {
+  background-color: #D8B384;
+  font-family: "Belleza", sans-serif;
+  padding-top: 100px;
+  margin: auto auto -20px;
+  font-size: 1rem;
+}
+
+.contact-me {
+ background-color: #E4F5E6;
+}
+/* ----------------------------  */
+
+.textfield {
+  width: 300px;
+  height: 100px;
+}
+
+
+/* submit button ----------------------------------
+----------------------------------------------------- */
+.btn {
+  background: #5E454B;
+  background-image: -webkit-linear-gradient(top, #5E454B, #5E454B);
+  background-image: -moz-linear-gradient(top, #5E454B, #5E454B);
+  background-image: -ms-linear-gradient(top, #5E454B, #5E454B);
+  background-image: -o-linear-gradient(top, #5E454B, #5E454B);
+  background-image: linear-gradient(to bottom, #5E454B, #5E454B);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #CEE5D0;
+  background-image: -webkit-linear-gradient(top, #CEE5D0, #CEE5D0);
+  background-image: -moz-linear-gradient(top, #CEE5D0, #CEE5D0);
+  background-image: -ms-linear-gradient(top, #CEE5D0, #CEE5D0);
+  background-image: -o-linear-gradient(top, #CEE5D0, #CEE5D0);
+  background-image: linear-gradient(to bottom, #CEE5D0, #CEE5D0);
+  text-decoration: none;
+}
